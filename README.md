@@ -7,7 +7,7 @@ Lucas Mourís Abeijón
 
 Esta práctica consiste en el desarrollo de una página web tipo portfolio personal utilizando HTML y CSS.
 
-El objetivo es aplicar los conocimientos de maquetación web, uso de etiquetas semánticas, Flexbox, variables CSS y diseño responsive.
+El objetivo es aplicar los conocimientos de html css y flex aprendidos.
 
 La página incluye:
 
@@ -17,9 +17,9 @@ Formación académica
 
 Experiencia
 
-Conocimientos técnicos con barras de nivel
+Conocimientos técnicos
 
-Proyectos destacados con tarjetas e imágenes
+Proyectos destacados 
 
 Formulario de contacto
 
@@ -27,13 +27,12 @@ Footer con enlaces a redes sociales
 
 🛠 Tecnologías utilizadas
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 Flexbox
 
-Variables CSS
 
 📌 Notas
 
